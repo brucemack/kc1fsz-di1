@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "symbol-library-1")(type "KiCad")(uri "/Users/bruce/git/kicad-library/symbol-library-1.kicad_sym")(options "")(descr ""))
+)

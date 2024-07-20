@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "bruce-footprints")(type "KiCad")(uri "/Users/bruce/git/kicad-library/bruce-footprints.pretty")(options "")(descr ""))
+)
